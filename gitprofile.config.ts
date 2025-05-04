@@ -51,7 +51,7 @@ const CONFIG = {
         {
           title: 'Audit Digitization & Process Standardization',
           description:
-            'Modernized audit processes by leading software implementation, training auditors, and migrating legacy systems seamlessly. Improved efficiency, accuracy & consistency with standardized procedures and innovative tools. #ISOCompliance #ProjectManagement #ProcessImprovement #Auditing',
+            'Modernized audit processes by leading software implementation, training auditors, and migrating legacy systems. Improved efficiency, accuracy & consistency with standardized procedures and innovative tools. #ISOCompliance #ProjectManagement #ProcessImprovement #Auditing',
           imageUrl:
             'https://rawcdn.githack.com/KatKeilty/katkeilty.github.io/dfd3501de272872a72f7ef40358be11abb769bd8/public/canvaCreations/icon/Audit.png',
           link: 'https://www.linkedin.com/in/katkeilty',
@@ -59,15 +59,15 @@ const CONFIG = {
         {
           title: 'Digital Transformation & ERP Implementation',
           description:
-            'Facilitated seamless collaboration among stakeholders, including francophone partners, while leading training on Oracle NetSuite, M365 and Isovision. Championed data migration with SQL tools, bridging system gaps & driving tech adoption. #ERP #DataMigration #StakeholderManagement',
+            'Facilitated collaboration among stakeholders, including francophone partners, while leading training on Oracle NetSuite, M365 and Isovision. Championed data migration with SQL tools, bridging system gaps & driving tech adoption. #ERP #DataMigration #StakeholderManagement',
           imageUrl:
             'https://rawcdn.githack.com/KatKeilty/katkeilty.github.io/dfd3501de272872a72f7ef40358be11abb769bd8/public/canvaCreations/icon/ERP.png',
           link: 'https://www.linkedin.com/in/katkeilty',
         },
         {
-          title: 'Dynamic Documentation Design and Management',
+          title: 'Document Control',
           description:
-            'Streamlined documentation processes by designing dynamic templates, resolving version control issues, and advising on versioning and branding needs. Supported French translations to ensure cohesive, multilingual materials. #Documentation #WorkflowManagement #VersionControl',
+            'Streamlined documentation processes by designing dynamic templates, resolving version control issues, and advising on versioning and branding needs. Supported French translations to ensure cohesive, legible materials. #Documentation #WorkflowManagement #VersionControl',
           imageUrl:
             'https://rawcdn.githack.com/KatKeilty/katkeilty.github.io/dfd3501de272872a72f7ef40358be11abb769bd8/public/canvaCreations/icon/Documentation.png',
           link: 'https://www.linkedin.com/in/katkeilty',
@@ -164,12 +164,6 @@ const CONFIG = {
       link: 'https://www.credential.net/59384ce5-82e8-40b2-b1b1-1b92e48698d7?username=katrinakeilty53897',
     },
     {
-      name: 'BIDA Certificate, Business Intelligence & Data Analyst',
-      body: 'Advanced Excel, Power BI, Power Query, Power Pivot, SQL, Tableau, Python. Statistical analysis, business intelligence, data science principles.',
-      year: '2024',
-      link: 'https://www.credential.net/bf3107b3-e933-4ed7-8d00-2c6e75e60f15#acc.I7HWVedr',
-    },
-    {
       name: 'ISO 9001:2015 & 14001:2015 Internal Auditor',
       body: ' Internal Audits · ISO Standards · Interviewing · Process Improvement · Corrective and Preventive Action (CAPA)',
       year: '2017, 2024',
@@ -183,6 +177,14 @@ const CONFIG = {
     },
   ],
   educations: [
+    {
+      institution: 'The Corporate Finance Institute',
+      degree: 'BIDA Certificate, Business Intelligence & Data Analyst',
+      from: '2023',
+      to: '2024',
+      description:
+        'Advanced Excel, Power BI, Power Query, Power Pivot, SQL, Tableau, Python. Statistical analysis, business intelligence, data science principles.',
+    },
     {
       institution: 'Loyalist College',
       degree: 'Diploma, Office Administration – Executive',
