@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Develop bilingual dashboards and automated scorecard delivery, leveraging data from ERP, QMS, and other sources. Maintain PowerBI reports using SQL, DAX, and Azure DevOps, improving accuracy by transitioning from manual to automated systems. #DataVisualization #PowerBI #WorkflowManagement',
           imageUrl:
-            'https://rawcdn.githack.com/KatKeilty/katkeilty.github.io/dfd3501de272872a72f7ef40358be11abb769bd8/public/canvaCreations/icon/Metrics.png',
+            'https://rawcdn.githack.com/KatKeilty/katkeilty.github.io/d198146425b4680e8373ba088cb132fd7854b0fd/public/canvaCreations/icon/Metrics.png',
           link: 'https://www.linkedin.com/in/katkeilty',
         },
         {
@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Managed Quality Management Software (QMS) implementation, training staff, and transitioning legacy systems. Oversaw software configuration, updates, and access rights while coordinating with IT teams for seamless operation and troubleshooting. #SoftwareImplementation #DatabaseManagement #ProjectManagement',
           imageUrl:
-            'https://rawcdn.githack.com/KatKeilty/katkeilty.github.io/dfd3501de272872a72f7ef40358be11abb769bd8/public/canvaCreations/icon/QMS.png',
+            'https://rawcdn.githack.com/KatKeilty/katkeilty.github.io/d198146425b4680e8373ba088cb132fd7854b0fd/public/canvaCreations/icon/QMS.png',
           link: 'https://www.linkedin.com/in/katkeilty',
         },
         {
@@ -53,7 +53,7 @@ const CONFIG = {
           description:
             'Modernized audit processes by leading software implementation, training auditors, and migrating legacy systems. Improved efficiency, accuracy & consistency with standardized procedures and innovative tools. #ISOCompliance #ProjectManagement #ProcessImprovement #Auditing',
           imageUrl:
-            'https://rawcdn.githack.com/KatKeilty/katkeilty.github.io/dfd3501de272872a72f7ef40358be11abb769bd8/public/canvaCreations/icon/Audit.png',
+            'https://rawcdn.githack.com/KatKeilty/katkeilty.github.io/d198146425b4680e8373ba088cb132fd7854b0fd/public/canvaCreations/icon/Audit.png',
           link: 'https://www.linkedin.com/in/katkeilty',
         },
         {
@@ -61,7 +61,7 @@ const CONFIG = {
           description:
             'Facilitated collaboration among stakeholders, including francophone partners, while leading training on Oracle NetSuite, M365 and Isovision. Championed data migration with SQL tools, bridging system gaps & driving tech adoption. #ERP #DataMigration #StakeholderManagement',
           imageUrl:
-            'https://rawcdn.githack.com/KatKeilty/katkeilty.github.io/dfd3501de272872a72f7ef40358be11abb769bd8/public/canvaCreations/icon/ERP.png',
+            'https://rawcdn.githack.com/KatKeilty/katkeilty.github.io/d198146425b4680e8373ba088cb132fd7854b0fd/public/canvaCreations/icon/ERP.png',
           link: 'https://www.linkedin.com/in/katkeilty',
         },
         {
@@ -69,7 +69,7 @@ const CONFIG = {
           description:
             'Streamlined documentation processes by designing dynamic templates, resolving version control issues, and advising on versioning and branding needs. Supported French translations to ensure cohesive, legible materials. #Documentation #WorkflowManagement #VersionControl',
           imageUrl:
-            'https://rawcdn.githack.com/KatKeilty/katkeilty.github.io/dfd3501de272872a72f7ef40358be11abb769bd8/public/canvaCreations/icon/Documentation.png',
+            'https://rawcdn.githack.com/KatKeilty/katkeilty.github.io/d198146425b4680e8373ba088cb132fd7854b0fd/public/canvaCreations/icon/Documentation.png',
           link: 'https://www.linkedin.com/in/katkeilty',
         },
         {
@@ -77,7 +77,7 @@ const CONFIG = {
           description:
             'Led training programs for 365, QMS, ERP, and reporting while mentoring staff and improving departmental performance. Developed bilingual SharePoint resources, standardized documentation, and collaborated on adapting processes to new technologies. #Leadership #Training #ProcessImprovement',
           imageUrl:
-            'https://rawcdn.githack.com/KatKeilty/katkeilty.github.io/dfd3501de272872a72f7ef40358be11abb769bd8/public/canvaCreations/icon/Leadership.png',
+            'https://rawcdn.githack.com/KatKeilty/katkeilty.github.io/d198146425b4680e8373ba088cb132fd7854b0fd/public/canvaCreations/icon/Leadership.png',
           link: 'https://www.linkedin.com/in/katkeilty',
         },
       ],
@@ -93,7 +93,7 @@ const CONFIG = {
   social: {
     linkedin: 'katkeilty',
     website: '',
-    email: 'katkeilty@outlook.com',
+    email: 'portfolio@katkeilty.com',
     x: '',
     mastodon: '',
     researchGate: '',
